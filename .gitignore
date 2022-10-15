@@ -1,0 +1,11 @@
+# Ignore local editor
+.project
+.settings
+.idea
+.vscode
+
+# Windows
+
+node_modules/
+source/
+public/
